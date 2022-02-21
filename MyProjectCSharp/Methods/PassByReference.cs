@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace MyProject.Example
+
 {
     internal class PassByReference
     {
@@ -13,7 +14,7 @@ namespace MyProject.Example
             int y = 0;
             MyFunc(ref y);   //passing the values by refernce of x value
 
-            Console.WriteLine(y);
+            Console.WriteLine("x = y = {0}", y);
 
             Console.ReadKey();
 

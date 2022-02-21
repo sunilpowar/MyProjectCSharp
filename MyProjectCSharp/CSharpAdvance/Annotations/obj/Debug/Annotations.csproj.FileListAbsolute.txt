@@ -1,0 +1,8 @@
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\Annotations\obj\Debug\Annotations.csproj.AssemblyReference.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\Annotations\obj\Debug\Annotations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\Annotations\obj\Debug\Annotations.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\Annotations\bin\Debug\Annotations.exe.config
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\Annotations\bin\Debug\Annotations.exe
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\Annotations\bin\Debug\Annotations.pdb
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\Annotations\obj\Debug\Annotations.exe
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\Annotations\obj\Debug\Annotations.pdb

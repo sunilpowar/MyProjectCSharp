@@ -1,0 +1,15 @@
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\bin\Debug\BasicMaths.dll
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\bin\Debug\BasicMaths.pdb
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\obj\Debug\BasicMaths.csproj.AssemblyReference.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\obj\Debug\BasicMaths.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\obj\Debug\BasicMaths.csproj.CopyComplete
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\obj\Debug\BasicMaths.dll
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\BasicMaths\obj\Debug\BasicMaths.pdb

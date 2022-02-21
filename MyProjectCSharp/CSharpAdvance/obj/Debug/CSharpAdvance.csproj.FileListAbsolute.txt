@@ -1,0 +1,8 @@
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\bin\Debug\CSharpAdvance.exe.config
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\bin\Debug\CSharpAdvance.exe
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\bin\Debug\CSharpAdvance.pdb
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\obj\Debug\CSharpAdvance.csproj.AssemblyReference.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\obj\Debug\CSharpAdvance.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\obj\Debug\CSharpAdvance.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\obj\Debug\CSharpAdvance.exe
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\obj\Debug\CSharpAdvance.pdb

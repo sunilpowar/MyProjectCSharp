@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dcde92ba-199c-42ca-865d-bff7cce37ce5": {
+      "ProjectGuid": "dcde92ba-199c-42ca-865d-bff7cce37ce5",
+      "DisplayName": "MSUnitTest",
+      "ColorIndex": 0
+    },
+    "6e1997ed-cff7-4623-8d99-5d33548c010d": {
+      "ProjectGuid": "6e1997ed-cff7-4623-8d99-5d33548c010d",
+      "DisplayName": "BasicMaths",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

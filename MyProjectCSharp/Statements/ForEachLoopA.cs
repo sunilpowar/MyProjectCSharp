@@ -24,7 +24,7 @@ namespace MyProject.Example
                 Console.WriteLine("Hello " + name);
             }
             //for (initialization;  Condition; Increment;)
-            for (int a = 0; a < 5; a++)
+            for (int a = 0; a < 3; a++)
             {
                 Console.WriteLine("Value of a : {0}", arr[a]);
             }

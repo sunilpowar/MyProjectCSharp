@@ -1,0 +1,8 @@
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\Collections\bin\Debug\Collections.exe.config
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\Collections\bin\Debug\Collections.exe
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\Collections\bin\Debug\Collections.pdb
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\Collections\obj\Debug\Collections.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\Collections\obj\Debug\Collections.exe
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\Collections\obj\Debug\Collections.pdb

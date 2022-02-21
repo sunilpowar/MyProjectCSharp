@@ -14,7 +14,8 @@ namespace MyProject.Example
             MyCalc(a, b);    //Variables
 
 
-            Console.WriteLine(MyCalc(a, b));
+            Console.WriteLine(MyCalc( a, b));
+            
 
             Console.ReadKey();
 
@@ -23,7 +24,7 @@ namespace MyProject.Example
                                   //Parameters
         {                            
             int add = x + y;
-            return add;
+            return add;      
         }
     }
 }

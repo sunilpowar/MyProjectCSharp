@@ -1,0 +1,8 @@
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\ExceptionHandling\bin\Debug\ExceptionHnadling.exe.config
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\ExceptionHandling\bin\Debug\ExceptionHnadling.exe
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\ExceptionHandling\bin\Debug\ExceptionHnadling.pdb
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\ExceptionHandling\obj\Debug\ExceptionHnadling.exe
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\ExceptionHandling\obj\Debug\ExceptionHnadling.pdb

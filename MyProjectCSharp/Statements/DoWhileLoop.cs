@@ -14,7 +14,7 @@ namespace MyProject.Example
             int num = int.Parse(Console.ReadLine());
             int count = 1;   //Initial value of count is 1
             int count1 = 1;
-            //While Loop checks the condition first and performs
+            //While Loop checks the condition first then performs
             while (count <= num)    //Condition 1
                                     //giving output from 1 to taken count 
             {
@@ -22,13 +22,13 @@ namespace MyProject.Example
                 count++;   // ++ adding 1 to previous number
                   //We are also using break; for breaking the loop with one outoput
             }
-                //Do while Loop performs first and check the condition
+                //Do while Loop performs first then check the condition
             do
             {
                 Console.WriteLine("Do while Number : {0} \n", count1);
                 count1++;
             }
-            while (count <= num);   //Condition 2
+            while (count1 <= num);   //Condition 2
 
             Console.ReadKey();
 

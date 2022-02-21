@@ -1,0 +1,8 @@
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\GarbageCollection\bin\Debug\GarbageCollection.exe.config
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\GarbageCollection\bin\Debug\GarbageCollection.exe
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\GarbageCollection\bin\Debug\GarbageCollection.pdb
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\GarbageCollection\obj\Debug\GarbageCollection.csproj.AssemblyReference.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\GarbageCollection\obj\Debug\GarbageCollection.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\GarbageCollection\obj\Debug\GarbageCollection.csproj.CoreCompileInputs.cache
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\GarbageCollection\obj\Debug\GarbageCollection.exe
+C:\Users\Shree\source\repos\MyProjectCSharp\MyProjectCSharp\CSharpAdvance\GarbageCollection\obj\Debug\GarbageCollection.pdb

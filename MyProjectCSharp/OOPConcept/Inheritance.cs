@@ -20,7 +20,7 @@ namespace MyProject.Example
     {
         public int area()
         {                               //Method
-            return width * height;     //Retutn Formula
+            return width * height;     //Return Formula
         }
     }
     class Triangle : Polygon  //Derived Class
